@@ -14,30 +14,4 @@ Here is a sample JSFiddle of the code below
 [http://jsfiddle.net/L8hLjvm6/](http://jsfiddle.net/L8hLjvm6/)
 
 
-## Sample Code
-### html
-```html
-<div ng-app>
-  <div ng-controller="PromiseCtrl">
-      <h2>Getting the list of servers by region</h2>
-      <h3>Servers by region</h3>
-      <p>{{instanceTypes}}</p>
-      <h2>Getting the list of servers by region</h2>
-      <h3>Servers by region</h3>
-      <p>{{regions}}</p>
-  </div>
-</div>
-```
 
-### javascript
-``` javascript
-function PromiseCtrl($scope, $http) {    
-    $http.get('https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita').then(function(value) {
-        $scope.instanceTypes = value.data.instanceTypes;
-    });
-  
-		$http.get('https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita').then(function(value) {
-        $scope.regions = value.data.regions;
-    });
-}
-```
