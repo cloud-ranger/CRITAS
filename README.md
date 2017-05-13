@@ -1,5 +1,5 @@
 # Welcome to CRITAS from CloudRanger
-## CloudRanger Instance Type Availablitity Service (CRITAS)
+## CloudRanger Instance Type Availablitity Service (CRITAS) from cloudranger.com
 
 We are delighted to make available as a completely free service a constantly update list of all available instances in AWS across all regions.
 
@@ -8,6 +8,10 @@ Its always a challenge when you are builing in interface that allows users to cr
 Hope you find it useful
 
 [https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita](https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita)
+
+
+Here is a sample JSFiddle of the code below
+[http://jsfiddle.net/L8hLjvm6/](http://jsfiddle.net/L8hLjvm6/)
 
 
 ## Sample Code
