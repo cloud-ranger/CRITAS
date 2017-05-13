@@ -1,5 +1,5 @@
 # Welcome to CRITAS from CloudRanger
-## CloudRanger Instance Type Availablitity Service (CRITAS) from [https://cloudranger.com](cloudranger.com)
+## CloudRanger Instance Type Availablitity Service (CRITAS) from [cloudranger.com](https://cloudranger.com)
 
 We are delighted to make available as a completely free service a constantly update list of all available instances in AWS across all regions.
 
