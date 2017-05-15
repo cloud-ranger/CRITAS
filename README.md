@@ -7,7 +7,7 @@ Its always a challenge when you are builing in interface that allows users to cr
 
 Hope you find it useful
 
-https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita
+[https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita](https://s3-us-west-2.amazonaws.com/adfsdafdsjfkljfsdluerfsfds/crita)
 
 
 Here is a sample JSFiddle of the code below
