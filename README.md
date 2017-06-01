@@ -3,7 +3,7 @@
 
 We are delighted to make available a completely free service that has a constantly updated list of all available instances in AWS across all regions.
 
-It’s always a challenge when you are building an interface that allows users to create instances, but without making a failing call how can you be assured that the instance type is available for use in that region? This problem is the reason we developed CRITAS. With this service we are constantly maintaining a list of all available AWS instance types per region. It’s available for free as a JSON file on s3.
+It’s always a challenge when you are building an interface that allows users to create instances, but without making a failing call how can you be assured that the instance type is available for use in that region? We developed CRITAS to try and solve this problem. With this service we are constantly maintaining a list of all available AWS instance types per region. It’s available for free as a JSON file on s3.
 
 We hope you find it useful
 
